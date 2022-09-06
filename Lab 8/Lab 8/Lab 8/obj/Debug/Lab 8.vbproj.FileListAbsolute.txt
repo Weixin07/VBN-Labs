@@ -1,0 +1,14 @@
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 8\Lab 8\Lab 8\obj\Debug\Lab 8.vbprojAssemblyReference.cache
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 8\Lab 8\Lab 8\obj\Debug\Lab_8.Form1.resources
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 8\Lab 8\Lab 8\obj\Debug\Lab_8.Resources.resources
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 8\Lab 8\Lab 8\obj\Debug\Lab 8.vbproj.GenerateResource.cache
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 8\Lab 8\Lab 8\obj\Debug\Lab 8.vbproj.CoreCompileInputs.cache
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 8\Lab 8\Lab 8\bin\Debug\Lab 8.exe.config
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 8\Lab 8\Lab 8\bin\Debug\Lab 8.exe
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 8\Lab 8\Lab 8\bin\Debug\Lab 8.pdb
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 8\Lab 8\Lab 8\bin\Debug\Lab 8.xml
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 8\Lab 8\Lab 8\obj\Debug\Lab 8.exe
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 8\Lab 8\Lab 8\obj\Debug\Lab 8.xml
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 8\Lab 8\Lab 8\obj\Debug\Lab 8.pdb
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 8\Lab 8\Lab 8\obj\Debug\Lab_8.Last_Exercise.resources
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 8\Lab 8\Lab 8\obj\Debug\Lab_8.Test.resources

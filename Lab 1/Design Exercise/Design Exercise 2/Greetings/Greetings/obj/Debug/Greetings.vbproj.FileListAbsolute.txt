@@ -1,0 +1,11 @@
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\Design Exercise\Design Exercise 2\Greetings\Greetings\obj\Debug\Greetings.vbprojAssemblyReference.cache
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\Design Exercise\Design Exercise 2\Greetings\Greetings\obj\Debug\Greetings.Form1.resources
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\Design Exercise\Design Exercise 2\Greetings\Greetings\obj\Debug\Greetings.Resources.resources
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\Design Exercise\Design Exercise 2\Greetings\Greetings\obj\Debug\Greetings.vbproj.GenerateResource.cache
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\Design Exercise\Design Exercise 2\Greetings\Greetings\bin\Debug\Greetings.exe.config
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\Design Exercise\Design Exercise 2\Greetings\Greetings\bin\Debug\Greetings.exe
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\Design Exercise\Design Exercise 2\Greetings\Greetings\bin\Debug\Greetings.pdb
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\Design Exercise\Design Exercise 2\Greetings\Greetings\bin\Debug\Greetings.xml
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\Design Exercise\Design Exercise 2\Greetings\Greetings\obj\Debug\Greetings.exe
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\Design Exercise\Design Exercise 2\Greetings\Greetings\obj\Debug\Greetings.xml
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\Design Exercise\Design Exercise 2\Greetings\Greetings\obj\Debug\Greetings.pdb

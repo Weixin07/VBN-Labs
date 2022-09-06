@@ -1,0 +1,11 @@
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\My Converter Program\My Converter Program\bin\Debug\My Converter Program.exe.config
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\My Converter Program\My Converter Program\bin\Debug\My Converter Program.exe
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\My Converter Program\My Converter Program\bin\Debug\My Converter Program.pdb
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\My Converter Program\My Converter Program\bin\Debug\My Converter Program.xml
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\My Converter Program\My Converter Program\obj\Debug\My_Converter_Program.Form1.resources
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\My Converter Program\My Converter Program\obj\Debug\My_Converter_Program.Resources.resources
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\My Converter Program\My Converter Program\obj\Debug\My Converter Program.vbproj.GenerateResource.cache
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\My Converter Program\My Converter Program\obj\Debug\My Converter Program.exe
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\My Converter Program\My Converter Program\obj\Debug\My Converter Program.xml
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\My Converter Program\My Converter Program\obj\Debug\My Converter Program.pdb
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 1\My Converter Program\My Converter Program\obj\Debug\My Converter Program.vbprojAssemblyReference.cache

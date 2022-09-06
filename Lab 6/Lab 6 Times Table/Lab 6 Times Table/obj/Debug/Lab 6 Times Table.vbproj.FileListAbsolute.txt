@@ -1,0 +1,11 @@
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 6\Lab 6 Times Table\Lab 6 Times Table\obj\Debug\Lab 6 Times Table.vbprojAssemblyReference.cache
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 6\Lab 6 Times Table\Lab 6 Times Table\obj\Debug\Lab_6_Times_Table.Form1.resources
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 6\Lab 6 Times Table\Lab 6 Times Table\obj\Debug\Lab_6_Times_Table.Resources.resources
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 6\Lab 6 Times Table\Lab 6 Times Table\obj\Debug\Lab 6 Times Table.vbproj.GenerateResource.cache
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 6\Lab 6 Times Table\Lab 6 Times Table\bin\Debug\Lab 6 Times Table.exe.config
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 6\Lab 6 Times Table\Lab 6 Times Table\bin\Debug\Lab 6 Times Table.exe
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 6\Lab 6 Times Table\Lab 6 Times Table\bin\Debug\Lab 6 Times Table.pdb
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 6\Lab 6 Times Table\Lab 6 Times Table\bin\Debug\Lab 6 Times Table.xml
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 6\Lab 6 Times Table\Lab 6 Times Table\obj\Debug\Lab 6 Times Table.exe
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 6\Lab 6 Times Table\Lab 6 Times Table\obj\Debug\Lab 6 Times Table.xml
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 6\Lab 6 Times Table\Lab 6 Times Table\obj\Debug\Lab 6 Times Table.pdb

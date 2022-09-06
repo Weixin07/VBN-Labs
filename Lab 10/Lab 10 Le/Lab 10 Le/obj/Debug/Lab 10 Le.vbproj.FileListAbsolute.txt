@@ -1,0 +1,12 @@
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 10\Lab 10 Le\Lab 10 Le\bin\Debug\Lab 10 Le.exe.config
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 10\Lab 10 Le\Lab 10 Le\bin\Debug\Lab 10 Le.exe
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 10\Lab 10 Le\Lab 10 Le\bin\Debug\Lab 10 Le.pdb
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 10\Lab 10 Le\Lab 10 Le\bin\Debug\Lab 10 Le.xml
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 10\Lab 10 Le\Lab 10 Le\obj\Debug\Lab 10 Le.vbprojAssemblyReference.cache
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 10\Lab 10 Le\Lab 10 Le\obj\Debug\Lab_10_Le.Form1.resources
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 10\Lab 10 Le\Lab 10 Le\obj\Debug\Lab_10_Le.Resources.resources
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 10\Lab 10 Le\Lab 10 Le\obj\Debug\Lab 10 Le.vbproj.GenerateResource.cache
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 10\Lab 10 Le\Lab 10 Le\obj\Debug\Lab 10 Le.vbproj.CoreCompileInputs.cache
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 10\Lab 10 Le\Lab 10 Le\obj\Debug\Lab 10 Le.exe
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 10\Lab 10 Le\Lab 10 Le\obj\Debug\Lab 10 Le.xml
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 10\Lab 10 Le\Lab 10 Le\obj\Debug\Lab 10 Le.pdb

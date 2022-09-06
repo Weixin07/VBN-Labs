@@ -1,0 +1,11 @@
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 3\Lab 3 (Extra)\Lab 3 (Extra)\bin\Debug\Lab 3 (Extra).exe.config
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 3\Lab 3 (Extra)\Lab 3 (Extra)\bin\Debug\Lab 3 (Extra).exe
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 3\Lab 3 (Extra)\Lab 3 (Extra)\bin\Debug\Lab 3 (Extra).pdb
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 3\Lab 3 (Extra)\Lab 3 (Extra)\bin\Debug\Lab 3 (Extra).xml
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 3\Lab 3 (Extra)\Lab 3 (Extra)\obj\Debug\Lab 3 (Extra).vbprojAssemblyReference.cache
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 3\Lab 3 (Extra)\Lab 3 (Extra)\obj\Debug\Lab_3__Extra_.Form1.resources
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 3\Lab 3 (Extra)\Lab 3 (Extra)\obj\Debug\Lab_3__Extra_.Resources.resources
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 3\Lab 3 (Extra)\Lab 3 (Extra)\obj\Debug\Lab 3 (Extra).vbproj.GenerateResource.cache
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 3\Lab 3 (Extra)\Lab 3 (Extra)\obj\Debug\Lab 3 (Extra).exe
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 3\Lab 3 (Extra)\Lab 3 (Extra)\obj\Debug\Lab 3 (Extra).xml
+D:\APU Stuff\Semester 3\Visual Basic .NET (AAPP008-4-2-VBN)\By Dr. Tan Chye Cheah\Lab\Lab 3\Lab 3 (Extra)\Lab 3 (Extra)\obj\Debug\Lab 3 (Extra).pdb
